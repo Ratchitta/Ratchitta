@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,mui,python,php,figma,firebase,flutter,gcp&perline=6)](https://skillicons.dev)
 
 ### Current Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=mkmksgit&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ratchitta&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ### Contact me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ratchitta-panyangam/)
