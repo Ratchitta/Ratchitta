@@ -1,11 +1,14 @@
 # 👋 Hi, I’m Ratchitta Panya-ngam
 - 👀 I’m interested in Game Dev, Web App
-- ✍ I can design and create some database using SQL and Firebase, create website and decorate it.
-- 🌱 I’m currently learning about game design and game development
+- ✍ I can design and create some database using SQL and Firebase, create website.
+- 🌱 I’m currently learning about back-end API services and database design.
+- ⭐ My dream is creating a game.
 <!-- - 📨 feel free to contact me at ratchitta.panyangam@gmail.com -->
 <!-- - ⚒ Now I'm working on some game project -->
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,mui,python,php,figma,firebase,flutter,gcp&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,mui,python,php,figma,firebase,flutter,gcp)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratchitta&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Current Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=ratchitta&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
